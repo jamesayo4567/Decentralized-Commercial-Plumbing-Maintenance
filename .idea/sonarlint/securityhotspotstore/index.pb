@@ -5,3 +5,15 @@ T
 $contracts/building-registration.clar,3/3/3372530a478914085001ccc3b5ee31a6c4e4dc13
 S
 #tests/building-registration.test.ts,0/e/0eb71db9c267158dd4a93f66fcca2135cd66deae
+U
+%contracts/maintenance-scheduling.clar,f/7/f75564e007197f104115c4551443027923af5a64
+T
+$tests/maintenance-scheduling.test.ts,a/d/adeaaa7ee161d125c6a79c3d78c40688f3a402a4
+O
+contracts/system-inventory.clar,c/3/c3ad397f4412ad7829342ab5f89396d5109e08f1
+N
+tests/system-inventory.test.ts,7/7/77279e5d06238b4af40d1ef79f2173df8ee32494
+J
+contracts/water-usage.clar,7/7/77522e83ad579440c10fd4092f0cdc8c8531f188
+I
+tests/water-usage.test.ts,8/7/87949d94f11a79ac2121546603e940b5eb38cefd

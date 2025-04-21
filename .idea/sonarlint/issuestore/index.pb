@@ -13,3 +13,7 @@ O
 contracts/system-inventory.clar,c/3/c3ad397f4412ad7829342ab5f89396d5109e08f1
 N
 tests/system-inventory.test.ts,7/7/77279e5d06238b4af40d1ef79f2173df8ee32494
+J
+contracts/water-usage.clar,7/7/77522e83ad579440c10fd4092f0cdc8c8531f188
+I
+tests/water-usage.test.ts,8/7/87949d94f11a79ac2121546603e940b5eb38cefd
